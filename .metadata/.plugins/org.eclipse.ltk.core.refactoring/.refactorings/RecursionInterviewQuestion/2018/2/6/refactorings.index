@@ -1,0 +1,3 @@
+1518008267044	Rename type 'PrimeNumber'
+1518073172427	Extract local variable 'length'
+1518074009272	Extract method 'getNewElementArray'

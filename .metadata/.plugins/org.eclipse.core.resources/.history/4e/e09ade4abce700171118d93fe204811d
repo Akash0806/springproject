@@ -1,0 +1,11 @@
+package com.billgenration.item.builder;
+
+import com.billgenration.meal.Meal;
+
+public class ItemBuilder {
+public static void main(String[] args) {
+	Meal meal=new Meal();
+	PropertyUtil propertyUtil=new PropertyUtil();
+	//meal.addItem(item);
+}
+}

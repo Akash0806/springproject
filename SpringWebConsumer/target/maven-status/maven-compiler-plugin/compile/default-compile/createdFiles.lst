@@ -1,0 +1,15 @@
+com\raps\code\generate\ws\GetStudentResponse.class
+SpringWebConsumer\SpringWebConsumer\App.class
+SpringWebConsumer\SpringWebConsumer\StudentClient.class
+com\concretepage\wsdl\Student.class
+com\raps\code\generate\ws\Student.class
+com\concretepage\wsdl\GetStudentRequest.class
+com\concretepage\wsdl\package-info.class
+SpringWebConsumer\SpringWebConsumer\ClientAppConfig.class
+com\concretepage\wsdl\GetStudentResponse.class
+com\raps\code\generate\ws\ObjectFactory.class
+com\raps\code\generate\ws\package-info.class
+com\concretepage\wsdl\ObjectFactory.class
+com\raps\code\generate\ws\GetStudentRequest.class
+com\raps\code\generate\ws\StudentPortService.class
+com\raps\code\generate\ws\StudentPort.class

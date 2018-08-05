@@ -1,0 +1,20 @@
+1514131390524	Copy compilation unit
+1514131452479	Rename type 'Latte'
+1514136413010	Rename local variable 'br'
+1514137571224	Extract constant 'CONFIG_ITEMANDCODEMAPPING_PROPERTIES'
+1514137604328	Extract constant 'INPUT_INPUT_ORDER_CSV'
+1514138255811	Delete element
+1514140124293	Extract local variable 'totalCost'
+1514308202128	Delete element
+1514309101446	Extract method 'calculateDiscountOnCost'
+1514309465058	Extract method 'percentageCal'
+1514310493518	Extract method 'loadItemClass'
+1514311875892	Delete element
+1514312034178	Extract method 'loadPropertyUtil'
+1514312240411	Extract method 'createItemListFromInput'
+1514389721856	Copy file
+1514390101642	Copy file
+1514392728297	Copy file
+1514393825799	Copy file
+1514395272369	Delete element
+1514395948580	Rename type 'TestPercentage'

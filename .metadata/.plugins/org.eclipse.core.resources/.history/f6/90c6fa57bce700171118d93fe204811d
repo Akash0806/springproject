@@ -1,0 +1,14 @@
+package com.billgenration.item.builder;
+
+import com.billgenration.item.helper.PropertyUtil;
+import com.billgenration.meal.Meal;
+
+public class ItemBuilder {
+public static void main(String[] args) {
+	Meal meal=new Meal();
+	String filename = "itemandcodemapping.properties";
+	PropertyUtil propertyUtil=new PropertyUtil();
+	propertyUtil.getProperties("")
+	//meal.addItem(item);
+}
+}

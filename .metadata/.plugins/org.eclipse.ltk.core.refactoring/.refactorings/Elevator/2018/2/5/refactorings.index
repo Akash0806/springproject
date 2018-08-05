@@ -1,0 +1,7 @@
+1517553842808	Delete element
+1517553848900	Delete element
+1517559043387	Rename type 'Floor'
+1517559846205	Rename type 'Diraction'
+1517563048401	Rename type 'Elevetor'
+1517585557770	Encapsulate field 'buttonPressFromFloorNum'
+1517585566573	Encapsulate field 'isButtonPressed'

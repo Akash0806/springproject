@@ -1,0 +1,13 @@
+127.0.0.1 - - [13/Feb/2018:23:08:40 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:15:48 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:15:49 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:16:17 +0530] "GET /login HTTP/1.1" 404 1004
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:17:26 +0530] "GET /springsecuritydemo/login HTTP/1.1" 200 1914
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:17:26 +0530] "GET /springsecuritydemo/resources/css/common.css HTTP/1.1" 200 763
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:17:26 +0530] "GET /springsecuritydemo/resources/js/bootstrap.min.js HTTP/1.1" 200 47911
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:17:26 +0530] "GET /springsecuritydemo/resources/css/bootstrap.min.css HTTP/1.1" 200 153844
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:24:59 +0530] "POST /springsecuritydemo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:25:07 +0530] "GET /springsecuritydemo/login?error HTTP/1.1" 200 1961
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:25:07 +0530] "GET /springsecuritydemo/resources/css/common.css HTTP/1.1" 200 763
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:25:07 +0530] "GET /springsecuritydemo/resources/css/bootstrap.min.css HTTP/1.1" 200 153844
+0:0:0:0:0:0:0:1 - - [13/Feb/2018:23:25:07 +0530] "GET /springsecuritydemo/resources/js/bootstrap.min.js HTTP/1.1" 200 47911

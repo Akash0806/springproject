@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/spring4soap/src/test/java/com/concretepage/app/spring4soap/TestDoubleCheck.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.concretepage.app.spring4soap.TestDoubleCheck"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="spring4soap"/>
+</launchConfiguration>

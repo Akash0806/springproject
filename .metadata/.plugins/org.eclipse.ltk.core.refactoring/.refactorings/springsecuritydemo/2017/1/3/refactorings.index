@@ -1,0 +1,9 @@
+1484586550817	Move 'resources' to 'WEB-INF'
+1484586693319	Move 'resources' to 'WebContent'
+1484589848004	Delete element
+1484590267653	Rename package 'com.hellokoding.account.model'
+1484590309487	Delete element
+1484592912772	Move 'persistence.xml' to 'META-INF'
+1484593053521	Copy file
+1484632573263	Extract local variable 'roles'
+1484676443306	Rename package 'com.sprinsecuritydemo.restException'

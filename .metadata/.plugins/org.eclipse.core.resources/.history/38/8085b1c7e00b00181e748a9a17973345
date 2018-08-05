@@ -1,0 +1,18 @@
+package recursioninterviewquestion.answer;
+
+public class Factorial {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      System.out.println(getFactOfNum(3));
+	}
+	
+	public static int getFactOfNum(int num){
+		
+		if(num==1 ){
+			return num;
+		}
+		return num * getFactOfNum(num-1);
+	}
+
+}
